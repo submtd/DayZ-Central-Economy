@@ -131,21 +131,27 @@
 	</type>
 	<type name="ScientificBriefcase">
 		<damage min="0.1" max="0.1" />
+		<cargo chance="1.0">
+			<item name="ShippingContainerKeys_Blue" chance="0.2" />
+			<item name="ShippingContainerKeys_Red" chance="0.2" />
+			<item name="ShippingContainerKeys_Orange" chance="0.2" />
+			<item name="ShippingContainerKeys_Yellow" chance="0.2" />
+		</cargo>
 	</type>
 	<type name="ScientificBriefcaseKeys">
 		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ShippingContainerKeys_Blue">
-		<damage min="0.0" max="0.0" />
+		<damage min="0.9" max="0.9" />
 	</type>
 	<type name="ShippingContainerKeys_Yellow">
-		<damage min="0.0" max="0.0" />
+		<damage min="0.9" max="0.9" />
 	</type>
 	<type name="ShippingContainerKeys_Red">
-		<damage min="0.0" max="0.0" />
+		<damage min="0.9" max="0.9" />
 	</type>
 	<type name="ShippingContainerKeys_Orange">
-		<damage min="0.0" max="0.0" />
+		<damage min="0.9" max="0.9" />
 	</type>
 	<type name="Ammo_40mm_Explosive">
 		<damage min="0.0" max="0.35" />
