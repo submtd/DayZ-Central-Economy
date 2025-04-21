@@ -4,12 +4,12 @@
 	{
 		"disableBaseDamage": false,
 		"disableContainerDamage": false,
-		"disableRespawnDialog": false,
-		"disableRespawnInUnconsciousness": false
+		"disableRespawnDialog": true,
+		"disableRespawnInUnconsciousness": true
 	},
     "PlayerData":
 	{
-		"disablePersonalLight": false,
+		"disablePersonalLight": true,
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
