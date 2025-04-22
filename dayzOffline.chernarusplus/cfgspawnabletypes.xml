@@ -42,7 +42,7 @@
 	</type>
 	<type name="SeaChest">
 		<hoarder />
-		<cargo chance="1.0">
+		<cargo chance="0.8">
 			<item name="M4A1" chance="0.01" />
 			<item name="M16A2" chance="0.01" />
 			<item name="FAL" chance="0.01" />
@@ -54,21 +54,30 @@
 			<item name="SV98" chance="0.01" />
 			<item name="SVD" chance="0.01" />
 		</cargo>
-		<cargo chance="1.0">
+		<cargo chance="0.5">
 			<item name="PlateCarrierVest_Black" chance="0.25" />
 			<item name="PlateCarrierVest_Camo" chance="0.25" />
 			<item name="PlateCarrierVest_Green" chance="0.25" />
 			<item name="PlateCarrierVest_Winter" chance="0.25" />
 		</cargo>
-		<cargo chance="1.0">
+		<cargo chance="0.5">
+			<item name="AliceBag_Black" chance="0.33" />
+			<item name="AliceBag_Green" chance="0.33" />
+			<item name="AliceBag_Camo" chance="0.33" />
+		</cargo>
+		<cargo chance="0.6">
 			<item name="Mich2001Helmet" chance="0.5" />
 			<item name="NVGHeadstrap" chance="0.5" />
 		</cargo>
-		<cargo chance="1.0">
+		<cargo chance="0.6">
 			<item name="NVGoggles" chance="1.0" />
 		</cargo>
-		<cargo chance="1.0">
+		<cargo chance="0.8">
 			<item name="Battery9v" chance="1.0" />
+		</cargo>
+		<cargo chance="0.5">
+			<item name="AK_Suppressor" chance="0.5" />
+			<item name="M4_Suppressor" chance="0.5" />
 		</cargo>
 	</type>
 	<type name="SmallProtectorCase">
@@ -170,16 +179,16 @@
 		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ShippingContainerKeys_Blue">
-		<damage min="0.9" max="0.9" />
+		<damage min="0.8" max="0.9" />
 	</type>
 	<type name="ShippingContainerKeys_Yellow">
-		<damage min="0.9" max="0.9" />
+		<damage min="0.8" max="0.9" />
 	</type>
 	<type name="ShippingContainerKeys_Red">
-		<damage min="0.9" max="0.9" />
+		<damage min="0.8" max="0.9" />
 	</type>
 	<type name="ShippingContainerKeys_Orange">
-		<damage min="0.9" max="0.9" />
+		<damage min="0.8" max="0.9" />
 	</type>
 	<type name="Ammo_40mm_Explosive">
 		<damage min="0.0" max="0.35" />
