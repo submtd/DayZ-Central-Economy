@@ -42,43 +42,6 @@
 	</type>
 	<type name="SeaChest">
 		<hoarder />
-		<cargo chance="0.8">
-			<item name="M4A1" chance="0.01" />
-			<item name="M16A2" chance="0.01" />
-			<item name="FAL" chance="0.01" />
-			<item name="M14" chance="0.01" />
-			<item name="CZ550" chance="0.01" />
-			<item name="ASVAL" chance="0.01" />
-			<item name="Aug" chance="0.01" />
-			<item name="M79" chance="0.01" />
-			<item name="SV98" chance="0.01" />
-			<item name="SVD" chance="0.01" />
-		</cargo>
-		<cargo chance="0.5">
-			<item name="PlateCarrierVest_Black" chance="0.25" />
-			<item name="PlateCarrierVest_Camo" chance="0.25" />
-			<item name="PlateCarrierVest_Green" chance="0.25" />
-			<item name="PlateCarrierVest_Winter" chance="0.25" />
-		</cargo>
-		<cargo chance="0.5">
-			<item name="AliceBag_Black" chance="0.33" />
-			<item name="AliceBag_Green" chance="0.33" />
-			<item name="AliceBag_Camo" chance="0.33" />
-		</cargo>
-		<cargo chance="0.6">
-			<item name="Mich2001Helmet" chance="0.5" />
-			<item name="NVGHeadstrap" chance="0.5" />
-		</cargo>
-		<cargo chance="0.6">
-			<item name="NVGoggles" chance="1.0" />
-		</cargo>
-		<cargo chance="0.8">
-			<item name="Battery9v" chance="1.0" />
-		</cargo>
-		<cargo chance="0.5">
-			<item name="AK_Suppressor" chance="0.5" />
-			<item name="M4_Suppressor" chance="0.5" />
-		</cargo>
 	</type>
 	<type name="SmallProtectorCase">
 		<hoarder />
