@@ -132,10 +132,10 @@
 	<type name="ScientificBriefcase">
 		<damage min="0.1" max="0.1" />
 		<cargo chance="1.0">
-			<item name="ShippingContainerKeys_Blue" chance="0.2" />
-			<item name="ShippingContainerKeys_Red" chance="0.2" />
-			<item name="ShippingContainerKeys_Orange" chance="0.2" />
-			<item name="ShippingContainerKeys_Yellow" chance="0.2" />
+			<item name="ShippingContainerKeys_Blue" chance="0.25" />
+			<item name="ShippingContainerKeys_Red" chance="0.25" />
+			<item name="ShippingContainerKeys_Orange" chance="0.25" />
+			<item name="ShippingContainerKeys_Yellow" chance="0.25" />
 		</cargo>
 	</type>
 	<type name="ScientificBriefcaseKeys">
@@ -3109,7 +3109,7 @@
 	</type>
 	<type name="OffroadHatchback">
 		<attachments chance="1.00">
-			<item name="HatchbackWheel" chance="0.80" />
+			<item name="HatchbackWheel" chance="1.0" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HatchbackWheel" chance="0.80" />
