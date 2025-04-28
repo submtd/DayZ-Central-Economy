@@ -16,15 +16,8 @@
 -->
 		</defaults>
         <group name="Land_ContainerLocked_Blue_DE" lootmax="9">
-                <usage name="ContaminatedArea"/>
+                <usage name="LockedContainer"/>
                 <container name="lootFloor" lootmax="9">
-                        <category name="weapons" />
-                        <category name="explosives" />
-                        <category name="clothes" />
-                        <tag name="floor" />
-                        <tag name="shelves" />
-                        <tag name="ground" />
-                        <tag name="containers" />
                         <point pos="1.280762 -1.087738 0.534241" range="0.339402" height="1.312256" />
                         <point pos="-2.489868 -1.087738 -0.568787" range="0.479492" height="1.198730" />
                         <point pos="1.435303 -1.087738 -0.435181" range="0.492053" height="1.533203" />
@@ -37,15 +30,8 @@
                 </container>
         </group>
         <group name="Land_ContainerLocked_Orange_DE" lootmax="9">
-                <usage name="ContaminatedArea"/>
+                <usage name="LockedContainer"/>
                 <container name="lootFloor" lootmax="9">
-                        <category name="weapons" />
-                        <category name="explosives" />
-                        <category name="clothes" />
-                        <tag name="floor" />
-                        <tag name="shelves" />
-                        <tag name="ground" />
-                        <tag name="containers" />
                         <point pos="1.280762 -1.087738 0.534241" range="0.339402" height="1.312256" />
                         <point pos="-2.489868 -1.087738 -0.568787" range="0.479492" height="1.198730" />
                         <point pos="1.435303 -1.087738 -0.435181" range="0.492053" height="1.533203" />
@@ -58,15 +44,8 @@
                 </container>
         </group>
         <group name="Land_ContainerLocked_Yellow_DE" lootmax="9">
-                <usage name="ContaminatedArea"/>
+                <usage name="LockedContainer"/>
                 <container name="lootFloor" lootmax="9">
-                        <category name="weapons" />
-                        <category name="explosives" />
-                        <category name="clothes" />
-                        <tag name="floor" />
-                        <tag name="shelves" />
-                        <tag name="ground" />
-                        <tag name="containers" />
                         <point pos="1.280762 -1.087738 0.534241" range="0.339402" height="1.312256" />
                         <point pos="-2.489868 -1.087738 -0.568787" range="0.479492" height="1.198730" />
                         <point pos="1.435303 -1.087738 -0.435181" range="0.492053" height="1.533203" />
@@ -79,15 +58,8 @@
                 </container>
         </group>
         <group name="Land_ContainerLocked_Red_DE" lootmax="9">
-                <usage name="ContaminatedArea"/>
+                <usage name="LockedContainer"/>
                 <container name="lootFloor" lootmax="9">
-                        <category name="weapons" />
-                        <category name="explosives" />
-                        <category name="clothes" />
-                        <tag name="floor" />
-                        <tag name="shelves" />
-                        <tag name="ground" />
-                        <tag name="containers" />
                         <point pos="1.280762 -1.087738 0.534241" range="0.339402" height="1.312256" />
                         <point pos="-2.489868 -1.087738 -0.568787" range="0.479492" height="1.198730" />
                         <point pos="1.435303 -1.087738 -0.435181" range="0.492053" height="1.533203" />

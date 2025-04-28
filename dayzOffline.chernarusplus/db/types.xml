@@ -53,6 +53,7 @@
         <usage name="Military"/>
     </type>
     <type name="ACOGOptic_6x">
+        <usage name="LockedContainer"/>
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
@@ -68,6 +69,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AK101">
+        <usage name="LockedContainer"/>
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -102,6 +104,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK74">
+        <usage name="LockedContainer"/>
         <nominal>12</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -162,6 +165,7 @@
         <usage name="Military"/>
     </type>
     <type name="AKM">
+        <usage name="LockedContainer"/>
         <nominal>3</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
@@ -353,6 +357,7 @@
         <category name="weapons"/>
     </type>
     <type name="AK_Suppressor">
+        <usage name="LockedContainer"/>
         <nominal>2</nominal>
         <lifetime>9800</lifetime>
         <restock>1800</restock>
@@ -434,6 +439,7 @@
         <category name="weapons"/>
     </type>
     <type name="ASVAL">
+        <usage name="LockedContainer"/>
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -516,6 +522,7 @@
         <usage name="School"/>
     </type>
     <type name="AliceBag_Black">
+        <usage name="LockedContainer"/>
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -552,6 +559,7 @@
         <usage name="Military"/>
     </type>
     <type name="AmmoBox">
+        <usage name="LockedContainer"/>
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -621,6 +629,7 @@
         <usage name="Village"/>
     </type>
     <type name="AmmoBox_308WinTracer_20Rnd">
+        <usage name="LockedContainer"/>
         <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -686,6 +695,7 @@
         <usage name="Military"/>
     </type>
     <type name="AmmoBox_545x39Tracer_20Rnd">
+        <usage name="LockedContainer"/>
         <nominal>9</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -714,6 +724,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_556x45Tracer_20Rnd">
+        <usage name="LockedContainer"/>
         <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -742,6 +753,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x39Tracer_20Rnd">
+        <usage name="LockedContainer"/>
         <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -771,6 +783,7 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_762x54Tracer_20Rnd">
+        <usage name="LockedContainer"/>
         <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -814,6 +827,7 @@
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_9x39AP_20Rnd">
+        <usage name="LockedContainer"/>
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -915,6 +929,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="Ammo_308WinTracer">
+        <usage name="LockedContainer"/>
         <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -959,6 +974,7 @@
         <usage name="Village"/>
     </type>
     <type name="Ammo_40mm_Chemgas">
+        <usage name="LockedContainer"/>
         <nominal>5</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
@@ -971,6 +987,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Ammo_40mm_Explosive">
+        <usage name="LockedContainer"/>
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -1648,6 +1665,7 @@
         <category name="tools"/>
     </type>
     <type name="AntiChemInjector">
+        <usage name="LockedContainer"/>
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -2310,6 +2328,7 @@
         <usage name="School"/>
     </type>
     <type name="Aug">
+        <usage name="LockedContainer"/>
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
@@ -2322,6 +2341,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="AugShort">
+        <usage name="LockedContainer"/>
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -4231,6 +4251,7 @@
         <value name="Tier3"/>
     </type>
     <type name="CZ550">
+        <usage name="LockedContainer"/>
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -4609,6 +4630,7 @@
         <value name="Tier4"/>
     </type>
     <type name="CargoPants_Black">
+        <usage name="LockedContainer"/>
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -5555,6 +5577,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ClaymoreMine">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>432000</lifetime>
         <restock>0</restock>
@@ -7043,6 +7066,7 @@
         <category name="clothes"/>
     </type>
     <type name="FAL">
+        <usage name="LockedContainer"/>
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -7055,6 +7079,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="FAMAS">
+        <usage name="LockedContainer"/>
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -7215,7 +7240,8 @@
         <usage name="Military"/>
     </type>
     <type name="FilteringBottle">
-        <nominal>0</nominal>
+        <usage name="LockedContainer"/>
+        <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
         <min>0</min>
@@ -7846,6 +7872,7 @@
         <usage name="Coast"/>
     </type>
     <type name="FlashGrenade">
+        <usage name="LockedContainer"/>
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -8140,6 +8167,7 @@
         <category name="clothes"/>
     </type>
     <type name="GhillieAtt_Mossy">
+        <usage name="LockedContainer"/>
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -8810,6 +8838,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Grenade_ChemGas">
+        <usage name="LockedContainer"/>
         <nominal>0</nominal>
         <lifetime>900</lifetime>
         <restock>0</restock>
@@ -10012,6 +10041,7 @@
         <value name="Tier4"/>
     </type>
     <type name="HipPack_Black">
+        <usage name="LockedContainer"/>
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -10440,6 +10470,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="HuntingOptic">
+        <usage name="LockedContainer"/>
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -11000,6 +11031,7 @@
         <usage name="Village"/>
     </type>
     <type name="KobraOptic">
+        <usage name="LockedContainer"/>
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
@@ -11048,6 +11080,7 @@
         <category name="food"/>
     </type>
     <type name="LandMineTrap">
+        <usage name="LockedContainer"/>
         <nominal>10</nominal>
         <lifetime>604800</lifetime>
         <restock>0</restock>
@@ -11536,6 +11569,7 @@
         <usage name="Hunting"/>
     </type>
     <type name="LargeTent">
+        <usage name="LockedContainer"/>
         <nominal>8</nominal>
         <lifetime>3888000</lifetime>
         <restock>43200</restock>
@@ -12035,6 +12069,7 @@
         <category name="food"/>
     </type>
     <type name="M14">
+        <usage name="LockedContainer"/>
         <nominal>2</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
@@ -12048,6 +12083,7 @@
         <value name="Tier4"/>
     </type>
     <type name="M16A2">
+        <usage name="LockedContainer"/>
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -12120,6 +12156,7 @@
         <usage name="Military"/>
     </type>
     <type name="M4A1">
+        <usage name="LockedContainer"/>
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
@@ -12260,6 +12297,7 @@
         <category name="weapons"/>
     </type>
     <type name="M4_Suppressor">
+        <usage name="LockedContainer"/>
         <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
@@ -12273,6 +12311,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="M4_T3NRDSOptic">
+        <usage name="LockedContainer"/>
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -12342,6 +12381,7 @@
         <value name="Tier4"/>
     </type>
     <type name="M67Grenade">
+        <usage name="LockedContainer"/>
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -12356,6 +12396,7 @@
         <value name="Tier4"/>
     </type>
     <type name="M68Optic">
+        <usage name="LockedContainer"/>
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
@@ -12368,6 +12409,7 @@
         <usage name="Military"/>
     </type>
     <type name="M79">
+        <usage name="LockedContainer"/>
         <nominal>3</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -12548,6 +12590,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_AK101_30Rnd">
+        <usage name="LockedContainer"/>
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -12574,6 +12617,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_AK74_45Rnd">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>5400</lifetime>
         <restock>1800</restock>
@@ -12600,6 +12644,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_AKM_Drum75Rnd">
+        <usage name="LockedContainer"/>
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -12626,6 +12671,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Aug_30Rnd">
+        <usage name="LockedContainer"/>
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -12674,6 +12720,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Mag_CMAG_40Rnd">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
@@ -12703,6 +12750,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_CZ550_10Rnd">
+        <usage name="LockedContainer"/>
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -12760,6 +12808,7 @@
         <usage name="Town"/>
     </type>
     <type name="Mag_FAL_20Rnd">
+        <usage name="LockedContainer"/>
         <nominal>9</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -12772,6 +12821,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Mag_FAMAS_25Rnd">
+        <usage name="LockedContainer"/>
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -12839,6 +12889,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_M14_20Rnd">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -12955,6 +13006,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_SSG82_5rnd">
+        <usage name="LockedContainer"/>
         <nominal>18</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -12983,6 +13035,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_STANAG_60Rnd">
+        <usage name="LockedContainer"/>
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
         <restock>1800</restock>
@@ -12995,6 +13048,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="Mag_SV98_10Rnd">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -13009,6 +13063,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_SVD_10Rnd">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -13088,6 +13143,7 @@
         <value name="Tier3"/>
     </type>
     <type name="Mag_VAL_20Rnd">
+        <usage name="LockedContainer"/>
         <nominal>6</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -13116,6 +13172,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Mag_Vikhr_30Rnd">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -13527,6 +13584,7 @@
         <usage name="Farm"/>
     </type>
     <type name="Mich2001Helmet">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -13673,6 +13731,7 @@
         <usage name="Military"/>
     </type>
     <type name="MilitaryBoots_Redpunk">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -14338,6 +14397,7 @@
         <value name="Tier4"/>
     </type>
     <type name="NVGoggles">
+        <usage name="LockedContainer"/>
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -15696,6 +15756,7 @@
         <value name="Tier4"/>
     </type>
     <type name="PlateCarrierVest_Black">
+        <usage name="LockedContainer"/>
         <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -16256,6 +16317,7 @@
         <usage name="Police"/>
     </type>
     <type name="RGD5Grenade">
+        <usage name="LockedContainer"/>
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -16514,6 +16576,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="ReflexOptic">
+        <usage name="LockedContainer"/>
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -16695,6 +16758,7 @@
         <value name="Tier1"/>
     </type>
     <type name="SKS">
+        <usage name="LockedContainer"/>
         <nominal>25</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -16738,6 +16802,7 @@
         <value name="Tier4"/>
     </type>
     <type name="SV98">
+        <usage name="LockedContainer"/>
         <nominal>2</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
@@ -16751,6 +16816,7 @@
         <value name="Tier4"/>
     </type>
     <type name="SVD">
+        <usage name="LockedContainer"/>
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
         <restock>3600</restock>
@@ -17806,6 +17872,16 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ShippingContainerKeys_Yellow">
+        <nominal>0</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="ShippingContainerKeys_Red">
         <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
@@ -19574,6 +19650,7 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalGloves_Black">
+        <usage name="LockedContainer"/>
         <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -19598,6 +19675,7 @@
         <usage name="Military"/>
     </type>
     <type name="TacticalGoggles">
+        <usage name="LockedContainer"/>
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
@@ -19613,6 +19691,7 @@
         <value name="Tier4"/>
     </type>
     <type name="TacticalShirt_Black">
+        <usage name="LockedContainer"/>
         <nominal>8</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
@@ -20693,6 +20772,7 @@
         <usage name="Village"/>
     </type>
     <type name="VSS">
+        <usage name="LockedContainer"/>
         <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
@@ -20707,6 +20787,7 @@
         <value name="Tier4"/>
     </type>
     <type name="Vikhr">
+        <usage name="LockedContainer"/>
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -20822,6 +20903,7 @@
         <usage name="Coast"/>
     </type>
     <type name="WeaponCleaningKit">
+        <usage name="LockedContainer"/>
         <nominal>60</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>

@@ -16,6 +16,7 @@
         <tag name="ground"/>
     </tags>
     <usageflags>
+        <usage name="LockedContainer"/>
         <usage name="Military"/>
         <usage name="Police"/>
         <usage name="Medic"/>
