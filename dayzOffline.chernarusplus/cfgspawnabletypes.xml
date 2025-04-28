@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
-	<type name="PowerGenerator">
-		<attachments chance="1.0">
-			<item name="SparkPlug" chance="1.0" />
-		</attachments>
-	</type>
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
@@ -1211,16 +1206,6 @@
 	<type name="Blouse_White">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
-	</type>
-	<type name="Mich2001Helmet">
-		<attachments chance="0.5">
-			<item name="NVGoggles" chance="1.00" />
-		</attachments>
-	</type>
-	<type name="NVGGoggles">
-		<attachments chance="1.0">
-			<item name="Battery9v" chance="1.00" />
-		</attachments>
 	</type>
 	<type name="DirtBikeHelmet_Black">
 		<attachments chance="0.20">
@@ -2527,27 +2512,22 @@
 		</attachments>
 	</type>
 	<type name="M4A1">
-		<damage min="0.00" max="0.1" />
+		<damage min="0.45" max="0.85" />
 		<attachments chance="1.00">
 			<item name="M4_OEBttstck" chance="1.00" />
-			<item name="M4_CQBBttstck" chance="1.00" />
-			<item name="M4_MPBttstck" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="M4_PlasticHndgrd" chance="1.00" />
-			<item name="M4_MPHndgrd" chance="1.00" />
-			<item name="M4_RISHndgrd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ACOGOptic_6x" chance="0.50" />
-			<item name="ACOGOptic" chance="0.50" />
 			<item name="BUISOptic" chance="0.50" />
+			<item name="M4_CarryHandleOptic" chance="1.00" />
 		</attachments>
-		<attachments chance="1.0">
-			<item name="Mag_STANAG_60Rnd" chance="1.00" />
-		</attachments>
-		<attachments chance="0.5">
-			<item name="M4_Suppressor" chance="1.00" />
+		<attachments chance="0.30">
+			<item name="Mag_CMAG_40Rnd" chance="0.15" />
+			<item name="Mag_CMAG_10Rnd" chance="0.50" />
+			<item name="Mag_CMAG_20Rnd" chance="0.70" />
+			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="M16A2">
