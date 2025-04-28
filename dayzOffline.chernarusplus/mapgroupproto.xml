@@ -16,7 +16,7 @@
 -->
 		</defaults>
         <group name="Land_ContainerLocked_Blue_DE" lootmax="9">
-                <usage name="Military"/>
+                <usage name="ContaminatedArea"/>
                 <container name="lootFloor" lootmax="9">
                         <category name="weapons" />
                         <category name="explosives" />
@@ -37,7 +37,7 @@
                 </container>
         </group>
         <group name="Land_ContainerLocked_Orange_DE" lootmax="9">
-                <usage name="Military"/>
+                <usage name="ContaminatedArea"/>
                 <container name="lootFloor" lootmax="9">
                         <category name="weapons" />
                         <category name="explosives" />
@@ -58,7 +58,7 @@
                 </container>
         </group>
         <group name="Land_ContainerLocked_Yellow_DE" lootmax="9">
-                <usage name="Military"/>
+                <usage name="ContaminatedArea"/>
                 <container name="lootFloor" lootmax="9">
                         <category name="weapons" />
                         <category name="explosives" />
@@ -79,7 +79,7 @@
                 </container>
         </group>
         <group name="Land_ContainerLocked_Red_DE" lootmax="9">
-                <usage name="Military"/>
+                <usage name="ContaminatedArea"/>
                 <container name="lootFloor" lootmax="9">
                         <category name="weapons" />
                         <category name="explosives" />
