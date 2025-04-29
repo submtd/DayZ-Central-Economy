@@ -44,7 +44,13 @@ Example messages:
     </message>
     -->
     <message>
-        <deadline>600</deadline>
+        <delay>2</delay>
+        <repeat>30</repeat>
+        <onconnect>1</onconnect>
+        <text>Join our discord: discord.gg/dayzofourlives</text>
+    </message>
+    <message>
+        <deadline>360</deadline>
         <shutdown>1</shutdown>
         <text>#name will restart in #tmin minutes.</text>
     </message>
