@@ -5,11 +5,11 @@
 		"disableBaseDamage": false,
 		"disableContainerDamage": false,
 		"disableRespawnDialog": true,
-		"disableRespawnInUnconsciousness": true
+		"disableRespawnInUnconsciousness": false
 	},
     "PlayerData":
 	{
-		"disablePersonalLight": true,
+		"disablePersonalLight": false,
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
@@ -48,57 +48,10 @@
 	},
 	"WorldsData":
 	{
-		"lightingConfig": 1,
-		"objectSpawnersArr": [
-			"./custom/WinterChernarus_1.json",
-			"./custom/WinterChernarus_2.json",
-			"./custom/WinterChernarus_3.json",
-			"./custom/WinterChernarus_4.json",
-			"./custom/WinterChernarus_5.json",
-			"./custom/WinterChernarus_6.json",
-			"./custom/WinterChernarus_7.json",
-			"./custom/WinterChernarus_8.json",
-			"./custom/WinterChernarus_9.json",
-			"./custom/WinterChernarus_10.json",
-			"./custom/WinterChernarus_11.json",
-			"./custom/WinterChernarus_12.json",
-			"./custom/WinterChernarus_13.json",
-			"./custom/WinterChernarus_14.json",
-			"./custom/WinterChernarus_15.json",
-			"./custom/WinterChernarus_16.json",
-			"./custom/WinterChernarus_17.json",
-			"./custom/WinterChernarus_18.json",
-			"./custom/WinterChernarus_19.json",
-			"./custom/WinterChernarus_20.json"
-		],
-		"environmentMinTemps": [
-			-15,
-			-15,
-			-15,
-			-15,
-			-15,
-			-15,
-			-15,
-			-15,
-			-15,
-			-15,
-			-15,
-			-15
-		],
-		"environmentMaxTemps": [
-			5,
-			5,
-			5,
-			5,
-			5,
-			5,
-			5,
-			5,
-			5,
-			5,
-			5,
-			5
-		],
+		"lightingConfig": 0,
+		"objectSpawnersArr": [],
+		"environmentMinTemps": [-3, -2, 0, 4, 9, 14, 18, 17, 13, 11, 9, 0],
+		"environmentMaxTemps": [3, 5, 7, 14, 19, 24, 26, 25, 18, 14, 10, 5],
 		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0]
 	},
 	"BaseBuildingData":

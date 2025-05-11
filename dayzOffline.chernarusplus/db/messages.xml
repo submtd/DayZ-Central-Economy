@@ -44,7 +44,7 @@ Example messages:
     </message>
     -->
     <message>
-        <deadline>300</deadline>
+        <deadline>480</deadline>
         <shutdown>1</shutdown>
         <text>#name will restart in #tmin minutes.</text>
     </message>
